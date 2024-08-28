@@ -24,7 +24,7 @@ class main{
         case 5:System.out.print("thursday");break;
         case 6:System.out.print("friday");break;
         case 7:System.out.print("Saturday");break;
-        default :Sytem.out.print("Not a day");
+        default :System.out.print("Not a day");
     }
 
     //looping from 1 to a;
@@ -39,7 +39,9 @@ class main{
 
     //do while loop
 
-    int i=1
+    int i=1;
       do{
       System.out.print(i);
       i++;}while(i>=1 && i<=3)
+
+        }}
